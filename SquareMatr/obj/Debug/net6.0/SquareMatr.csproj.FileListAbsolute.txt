@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\bin\Debug\net6.0\SquareMatr.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\bin\Debug\net6.0\SquareMatr.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\bin\Debug\net6.0\SquareMatr.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\bin\Debug\net6.0\SquareMatr.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\bin\Debug\net6.0\SquareMatr.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\refint\SquareMatr.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\SquareMatr.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\SquareMatr\obj\Debug\net6.0\ref\SquareMatr.dll
