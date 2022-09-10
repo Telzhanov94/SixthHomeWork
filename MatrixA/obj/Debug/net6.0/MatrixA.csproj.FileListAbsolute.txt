@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\bin\Debug\net6.0\MatrixA.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\bin\Debug\net6.0\MatrixA.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\bin\Debug\net6.0\MatrixA.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\bin\Debug\net6.0\MatrixA.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\bin\Debug\net6.0\MatrixA.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\refint\MatrixA.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\MatrixA.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SixthHomeWork\MatrixA\obj\Debug\net6.0\ref\MatrixA.dll
